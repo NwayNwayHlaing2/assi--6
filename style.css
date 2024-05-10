@@ -1,0 +1,29 @@
+.container{
+    display: grid;
+    border: 2px solid black;
+    grid-template-columns: 1fr 2fr;
+    width: 600px;
+    height: 350px;
+    border-radius: 0;
+    background-color: antiquewhite;
+  
+}
+.aa{
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 5px;
+    
+
+   
+}
+
+.cd{
+    padding: 10px;
+    line-height: 30px;
+
+}
+img{
+    width: 100%;
+    height: 100%;
+    
+}
